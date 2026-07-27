@@ -52,19 +52,6 @@ Git • GitHub • VS Code • Linux • Power BI
 
 ---
 
-# 🌟 Featured Projects
-
-## 🤖 Aeris
-A next-generation AI desktop assistant combining voice interaction, automation and gesture control.
-
-## 🧠 ZAYRO
-Desktop AI assistant focused on productivity and intelligent automation.
-
-## ✋ Smart Gesture Detection System
-Real-time hand gesture based PC control using Computer Vision.
-
----
-
 # 🏆 Certifications
 
 - Oracle Cloud Infrastructure 2025 Generative AI Professional
