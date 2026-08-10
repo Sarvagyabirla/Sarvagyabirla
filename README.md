@@ -22,7 +22,7 @@
 - 📍 Indore, India
 - 🐍 Focused on Python, AI/ML, Computer Vision and Intelligent Software
 - 📚 Currently mastering DSA in Python
-- 🎯 Goal: AI Internship → AI Engineer
+- 🎯 Goal: AI Internship
 
 ---
 
@@ -85,7 +85,6 @@ https://github-profile-trophy.vercel.app
 - Build impactful AI Projects
 - Contribute to Open Source
 - Secure an AI Internship
-- Become an AI Engineer
 
 ---
 
