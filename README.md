@@ -1,101 +1,309 @@
-# Hi 👋, I'm Sarvagya Birla
+<div align="center">
 
-<h3 align="center">AI & Machine Learning Enthusiast • Python Developer • Computer Vision Builder</h3>
+# 👋 Hi, I'm Sarvagya Birla
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+AI+that+solves+real+problems;Python+Developer;Computer+Vision+Enthusiast;Future+AI+Engineer;Always+Learning+%F0%9F%9A%80"/>
+### 🤖 AI & Machine Learning Engineer in Progress | Python Developer | Computer Vision Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+AI+that+solves+real+problems;Python+Developer;Computer+Vision+Enthusiast;Building+Intelligent+Systems;Future+AI+Engineer;Always+Learning+%F0%9F%9A%80" />
+
+<br>
+
+<a href="https://github.com/Sarvagyabirla">
+<img src="https://img.shields.io/badge/GitHub-Sarvagyabirla-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://www.linkedin.com/in/sarvagyabirla">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:birlasarvagya@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Sarvagyabirla&label=Profile%20Views&color=00F7FF&style=for-the-badge">
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm a **3rd-year B.Tech Computer Science student specializing in AI & Machine Learning**, focused on building practical AI systems rather than only studying theory.
+
+My current focus is on:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision
+* 🐍 Python Development
+* 🧠 Deep Learning
+* 🧩 Data Structures & Algorithms
+* ⚙️ Intelligent Automation
+* 🛠️ Building real-world AI applications
+
+I enjoy taking an idea from **concept → architecture → code → working system**.
+
+> 🎯 **My goal:** Become an AI Engineer capable of designing and building intelligent software that can understand, reason, and interact with the real world.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Aeris AI Assistant
+
+**A personal AI assistant designed to interact with the computer, understand commands, use tools, access information, and automate tasks.**
+
+**Core areas:**
+
+* 🧠 AI reasoning
+* 🎙️ Voice interaction
+* 👁️ Computer vision
+* 💻 Computer automation
+* 🧩 Tool integration
+* 🗂️ Memory & personalization
+* 🌐 Web information access
+* 📋 Task planning
+* 🔌 Application integrations
+
+🔗 **Repository:**
+https://github.com/Sarvagyabirla/Aeris.ai.Assistant
+
+---
+
+### 👋 SmartGestureOS
+
+**Real-Time Hand Gesture Control System for Desktop Automation**
+
+A computer-vision-based system that allows users to interact with their computer using hand gestures.
+
+**Capabilities include:**
+
+* 🖱️ Gesture-based mouse control
+* 👆 Click & double-click gestures
+* 🤏 Pinch interaction
+* ✋ Drag control
+* 🔄 Scrolling
+* 🎨 Gesture-based drawing
+* 🖥️ Desktop automation
+* 👁️ Real-time hand tracking
+
+**Tech:** Python • OpenCV • MediaPipe • PyAutoGUI • Computer Vision
+
+🔗 **Repository:**
+https://github.com/Sarvagyabirla/SmartGestureOS
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
 </p>
 
-<p align="center">
-<a href="https://github.com/Sarvagyabirla"><img src="https://img.shields.io/badge/GitHub-Sarvagyabirla-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/sarvagyabirla"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:birlasarvagya@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming_Soon-00C853?style=for-the-badge"/></a>
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="50"/>
+<img src="https://skillicons.dev/icons?i=opencv" height="50"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+### ⚙️ Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </p>
 
 ---
 
-# 🚀 About Me
+## 🧪 What I'm Currently Building
 
-- 🎓 B.Tech CSE (AI & ML), 3rd Year
-- 🏫 IPS Academy Institute of Engineering & Science
-- 📍 Indore, India
-- 🐍 Focused on Python, AI/ML, Computer Vision and Intelligent Software
-- 📚 Currently mastering DSA in Python
-- 🎯 Goal: AI Internship
+<table>
+<tr>
+<td width="50%">
 
----
+### 🤖 AI Systems
 
-# 🛠 Tech Stack
+Building intelligent systems that can reason, interact with tools, and automate real-world tasks.
 
-**Languages**
+</td>
+<td width="50%">
 
-Python 
+### 👁️ Computer Vision
 
-**AI / ML**
+Working with real-time vision systems, hand tracking, gesture recognition, and human-computer interaction.
 
-OpenCV • TensorFlow • PyTorch • Scikit-learn • NumPy • Pandas • Matplotlib
+</td>
+</tr>
 
-**Tools**
+<tr>
+<td width="50%">
 
-Git • GitHub • VS Code • Linux • Power BI
+### 🧩 DSA
 
----
+Solving Data Structures & Algorithms problems in Python to strengthen problem-solving and interview skills.
 
-# 🌱 Currently Learning
+</td>
+<td width="50%">
 
-- Data Structures & Algorithms
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Open Source Development
+### 🌐 Open Source
 
----
+Learning how to contribute to real-world repositories and collaborate through Git and GitHub.
 
-# 🏆 Certifications
-
-- Oracle Cloud Infrastructure 2025 Generative AI Professional
-- Python for Machine Learning
+</td>
+</tr>
+</table>
 
 ---
 
-# 💻 Coding Profiles
+## 📚 Currently Learning
 
-- LeetCode: https://leetcode.com/u/3dIpAfoh0Z/
-- HackerRank: https://www.hackerrank.com/profile/birlasarvagya
-
----
-
-# 📊 GitHub Stats
-
-```md
-Add these widgets after creating your profile README:
-
-https://github-readme-stats.vercel.app/api?username=Sarvagyabirla
-https://streak-stats.demolab.com?user=Sarvagyabirla
-https://github-readme-activity-graph.vercel.app
-https://github-profile-trophy.vercel.app
+```text
+AI / ML             ███████████████░░░░░
+Deep Learning       ████████████░░░░░░░░
+Computer Vision     ██████████████░░░░░░
+DSA                 ███████████░░░░░░░░░
+Python              █████████████████░░░
+System Design       ███████░░░░░░░░░░░░░
+Open Source         ████████░░░░░░░░░░░░
 ```
 
----
-
-# 🎯 2026 Goals
-
-- Solve 700+ DSA Problems
-- Build impactful AI Projects
-- Contribute to Open Source
-- Secure an AI Internship
+> The goal isn't to collect technologies.
+> The goal is to understand them well enough to build useful systems.
 
 ---
 
-## 📫 Connect
+## 🏆 Certifications
 
-- 📧 birlasarvagya@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sarvagyabirla
-- 🌐 Portfolio: Coming Soon
+🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+
+🏅 **Python for Machine Learning**
+SINE, IIT Bombay — **96%**
+
+🏅 **Microsoft Career Essentials in Generative AI**
+
+🏅 **Google Cloud Platform for Machine Learning Essential Training**
 
 ---
 
-> *"Every commit is one step closer to becoming the engineer I want to be."*
+## 💻 Coding Profiles
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+
+<a href="https://leetcode.com/u/3dIpAfoh0Z/">
+<img src="https://img.shields.io/badge/LeetCode-3dIpAfoh0Z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+<a href="https://www.hackerrank.com/profile/birlasarvagya">
+<img src="https://img.shields.io/badge/HackerRank-birlasarvagya-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black">
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarvagyabirla&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvagyabirla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sarvagyabirla&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sarvagyabirla&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvagyabirla&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+* [ ] 🧩 Solve **700+ DSA problems**
+* [ ] 🤖 Build advanced AI/ML projects
+* [ ] 👁️ Build production-level Computer Vision systems
+* [ ] 🧠 Strengthen Deep Learning fundamentals
+* [ ] 🌐 Make meaningful Open Source contributions
+* [ ] 💼 Secure an AI/ML internship
+* [ ] 🚀 Build and deploy AI applications
+* [ ] 📚 Build a strong AI Engineering portfolio
+
+---
+
+## ⚡ My Engineering Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I believe the fastest way to become a better engineer is to build things that are slightly beyond your current skill level.
+
+Every project teaches something new.
+
+Every bug is another problem solved.
+
+Every commit is another step forward.
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:birlasarvagya@gmail.com">
+<img src="https://img.shields.io/badge/Email-birlasarvagya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/sarvagyabirla">
+<img src="https://img.shields.io/badge/LinkedIn-Sarvagya%20Birla-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Sarvagyabirla">
+<img src="https://img.shields.io/badge/GitHub-Sarvagyabirla-181717?style=for-the-badge&logo=github">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ If you find something interesting in my repositories, feel free to explore!
+
+**Building today. Learning every day. Engineering the future with AI. 🤖**
+
+</div>
