@@ -238,7 +238,7 @@ Every project teaches something new that help to grow more.
 
 Every bug is another problem solved.
 
-Every commit is another step forward.
+Every commit is another step forward toward mastery.
 
 Every challange that I face always teach me that never give up try once more.
 
