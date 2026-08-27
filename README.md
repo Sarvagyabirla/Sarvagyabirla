@@ -240,8 +240,6 @@ Every bug is another problem solved.
 
 Every commit is another step forward toward mastery.
 
-Every challange that I face always teach me that never give up try once more.
-
 ---
 
 ## 🤝 Let's Connect
