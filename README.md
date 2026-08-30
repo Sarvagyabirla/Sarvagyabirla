@@ -234,7 +234,7 @@ SINE, IIT Bombay — **96%**
 
 I believe the fastest way to become a better engineer is to build things that are slightly beyond your current skill level.
 
-Every project teaches something new that help to grow more.
+Every project teaches something new.
 
 Every bug is another problem solved.
 
