@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm Sarvagya Birla
+# 👋 Hey, I'm Sarvagya Birla
 
-### AI/ML Student • Python Developer • Computer Vision Builder
+### 🤖 AI/ML Engineer in Progress • 🐍 Python Developer • 👁️ Computer Vision Builder • ⚡ AI Systems Enthusiast
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+solve+real+problems;Exploring+AI+%7C+ML+%7C+Computer+Vision;Turning+ideas+into+working+software;Learning.+Building.+Improving.;Future+AI+Engineer+%F0%9F%A4%96"
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1100&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+AI+systems+that+solve+real+problems;Exploring+AI+%7C+ML+%7C+Computer+Vision+%7C+Automation;Turning+ideas+into+working+software;Building+Aeris+%E2%80%94+a+local-first+AI+desktop+assistant;Learning.+Building.+Breaking.+Debugging.+Improving.;Future+AI%2FML+Engineer+%F0%9F%A4%96"
 />
 
 <br/>
@@ -26,127 +26,310 @@ src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=23&pau
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://www.hackerrank.com/profile/birlasarvagya">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sarvagyabirla&label=PROFILE+VIEWS&color=00F7FF&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Sarvagyabirla&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning** at **IPS Academy Institute of Engineering & Science, Indore**.
+I'm a **3rd-year B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning** at **IPS Academy Institute of Engineering & Science, Indore**.
 
-I’m interested in building intelligent systems that combine **AI, computer vision, automation, and software engineering** to solve practical problems.
+My main interest is not just training machine-learning models.
 
-Instead of only studying AI concepts, I like turning ideas into working systems through experimentation, debugging, and continuous improvement.
+I want to build **complete intelligent systems** that can:
+
+* 👁️ Perceive information
+* 🧠 Understand context
+* 🤔 Reason about problems
+* 🧩 Use tools
+* ⚡ Take controlled actions
+* 🔄 Learn from workflows
+* 💻 Interact with real software
+* 🌐 Work across digital environments
+
+I enjoy working at the intersection of:
+
+**Artificial Intelligence + Machine Learning + Computer Vision + Automation + Software Engineering + Human-Computer Interaction**
+
+Instead of stopping at tutorials, I prefer converting ideas into real systems through:
+
+> **Research → Build → Test → Break → Debug → Improve → Ship**
+
+---
+
+## 🧬 Developer Profile
 
 ```python
 sarvagya = {
-    "education": "B.Tech CSE - Artificial Intelligence & Machine Learning",
-    "year": "3rd Year",
-    "location": "Indore, India",
-    "focus": [
+    "role": "AI/ML Engineer in Progress",
+
+    "education": {
+        "degree": "B.Tech Computer Science Engineering",
+        "specialization": "Artificial Intelligence & Machine Learning",
+        "year": "3rd Year",
+        "location": "Indore, India"
+    },
+
+    "core_interests": [
         "Artificial Intelligence",
         "Machine Learning",
         "Computer Vision",
-        "Python",
-        "Intelligent Automation"
+        "AI Agents",
+        "Intelligent Automation",
+        "Human-Computer Interaction"
     ],
+
+    "language": "Python",
+
     "currently_learning": [
         "Data Structures & Algorithms",
         "Deep Learning",
         "AI Engineering",
-        "Open Source"
+        "AI System Design",
+        "Deployment",
+        "Open Source Development"
     ],
-    "career_goal": "AI / ML Engineer",
-    "open_to": "AI/ML Internships & Collaborations"
+
+    "currently_building": [
+        "Aeris AI Assistant",
+        "SmartGestureOS"
+    ],
+
+    "career_goal": "AI / Machine Learning Engineer",
+
+    "open_to": [
+        "AI/ML Internships",
+        "Computer Vision Internships",
+        "Python Development",
+        "Open Source",
+        "Technical Collaborations"
+    ]
 }
 ```
 
-### 🎯 Current Mission
+---
 
-> Build strong fundamentals, create ambitious AI projects, contribute to real-world software, and become internship-ready as an AI/ML engineer.
+# 🎯 Current Mission
+
+> ### Become an engineer who can design, build, debug, deploy, and improve intelligent systems instead of only using existing AI tools.
+
+Right now, I'm focused on four major areas:
+
+| Focus                   | Goal                                                    |
+| ----------------------- | ------------------------------------------------------- |
+| 🤖 **AI Engineering**   | Build complete intelligent applications                 |
+| 🧩 **DSA**              | Strengthen interview-level problem solving using Python |
+| 👁️ **Computer Vision** | Build reliable real-time vision systems                 |
+| 🛠️ **Projects**        | Create technically ambitious portfolio projects         |
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
+# 🚀 Featured Engineering Projects
 
 ## 🤖 Aeris AI Assistant
 
-Aeris is a personal AI assistant project focused on creating an intelligent system capable of understanding commands, interacting with tools, and automating computer-based tasks.
+<div align="center">
 
-### ⚡ Vision
+### Local-First Cognitive Desktop Assistant for Windows
 
-* 🧠 AI reasoning
+<img src="https://img.shields.io/badge/AI_Assistant-Aeris-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Local_First-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Safety-Permission_Based-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
+</div>
+
+**Aeris** is my flagship AI engineering project.
+
+It is a **local-first, permission-based Windows cognitive desktop assistant** designed to move beyond traditional chatbot interaction.
+
+Instead of only generating responses, Aeris is being built to:
+
+```text
+User Intent
+     ↓
+Understand
+     ↓
+Reason
+     ↓
+Plan
+     ↓
+Check Permission
+     ↓
+Use Tools
+     ↓
+Execute
+     ↓
+Verify
+     ↓
+Respond
+```
+
+### ⚡ Current Aeris Capabilities
+
 * 🎙️ Voice interaction
-* 👁️ Vision capabilities
-* 💻 Desktop automation
-* 🧩 Tool execution
-* 🗂️ Memory & personalization
-* 🌐 Web information access
-* 📋 Multi-step task planning
-* 🔌 Application integrations
-* ⚙️ Autonomous workflows
+* 🗣️ Automatic wake-word standby
+* 👁️ On-demand screen understanding
+* 🧠 Gemini-powered reasoning
+* ⚡ Fast offline command routing
+* 💻 Windows desktop control
+* 🌐 Browser and web actions
+* 📁 Permission-controlled file management
+* 📥 Secure file downloads
+* 📦 Windows Package Manager integration
+* 🧑‍💻 AI coding-project generation
+* 📧 Gmail reading and confirmed sending
+* 🔊 Volume control
+* ☀️ Brightness control
+* 🎵 Media controls
+* 🪟 Window management
+* 📋 Clipboard interaction
+* 📊 Computer health monitoring
+* 🔋 Battery monitoring
+* ⌨️ Confirmed typing automation
+* 📸 Screenshot capture
+* 🛡️ Dry-run mode
+* 🔐 Permission management
+* 🚨 Kill switch
+* 📜 Audit logging
+* 🔑 Secret redaction
+
+### 🛡️ Aeris Safety Philosophy
+
+Aeris does **not** give an LLM unrestricted control over the operating system.
+
+Instead:
+
+```text
+User
+  ↓
+Aeris Router / AI Planner
+  ↓
+Validated Tool Registry
+  ↓
+Permission Manager
+  ↓
+Safe Tool Adapter
+  ↓
+Windows
+```
+
+Sensitive actions require explicit approval.
+
+Aeris intentionally avoids unrestricted model-generated terminal execution because it could bypass its permission architecture.
+
+### 🧰 Technologies & Concepts
+
+`Python` `Gemini` `Faster Whisper` `Windows Automation` `Voice AI` `Computer Vision` `Gmail OAuth` `WinGet` `Desktop Automation`
 
 <br/>
-
-<a href="https://github.com/Sarvagyabirla/Aeris.ai.Assistant">
-<img src="https://img.shields.io/badge/View%20Project-Aeris%20AI-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 👋 SmartGestureOS
-
-A real-time **hand gesture control system** that allows users to interact with their desktop through computer vision and hand tracking.
-
-### ⚡ Features
-
-* 🖱️ Cursor movement
-* 👆 Click & double click
-* 🤏 Pinch gestures
-* ✋ Drag operations
-* 🔄 Gesture scrolling
-* 🎨 Drawing mode
-* 📸 Desktop actions
-* 👁️ Real-time hand tracking
-
-### 🛠 Built With
-
-`Python` `OpenCV` `MediaPipe` `PyAutoGUI`
-
-<br/>
-
-<a href="https://github.com/Sarvagyabirla/SmartGestureOS">
-<img src="https://img.shields.io/badge/View%20Project-SmartGestureOS-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🧠 Areas I'm Exploring
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge"/>
+<a href="https://github.com/Sarvagyabirla/Aeris.ai.Assistant">
+<img src="https://img.shields.io/badge/Explore%20Aeris-View%20Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## 👋 SmartGestureOS
+
+<div align="center">
+
+### Real-Time Hand Gesture Control System for Desktop Automation
+
+<img src="https://img.shields.io/badge/Computer_Vision-SmartGestureOS-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real_Time-Hand_Tracking-111827?style=for-the-badge"/>
+
+</div>
+
+**SmartGestureOS** explores touchless human-computer interaction using computer vision.
+
+The system captures hand movement through a webcam, detects hand landmarks, recognizes gestures, and maps them to desktop actions.
+
+### ✋ Gesture Capabilities
+
+* 🖱️ Cursor movement
+* 👆 Left click
+* 👆 Double click
+* 🤏 Pinch detection
+* ✋ Drag operations
+* 🔄 Gesture scrolling
+* 🖱️ Right-click interaction
+* 🎨 Drawing mode experimentation
+* 📸 Desktop actions
+* 👁️ Real-time hand landmark tracking
+
+### 🧠 System Flow
+
+```text
+Webcam
+   ↓
+OpenCV
+   ↓
+Hand Detection
+   ↓
+MediaPipe Landmarks
+   ↓
+Gesture Classification
+   ↓
+Action Mapping
+   ↓
+Desktop Automation
+```
+
+### 🛠️ Built With
+
+`Python` `OpenCV` `MediaPipe` `PyAutoGUI`
+
+### 🎯 What This Project Taught Me
+
+SmartGestureOS helped me explore:
+
+* Real-time computer vision
+* Human-computer interaction
+* Landmark-based gesture recognition
+* Gesture conflicts
+* Input smoothing
+* Latency reduction
+* Automation safety
+* Event handling
+* Real-time debugging
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Sarvagyabirla/SmartGestureOS">
+<img src="https://img.shields.io/badge/Explore%20SmartGestureOS-View%20Repository-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 🔭 Fields I'm Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Human--Computer%20Interaction-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-111827?style=for-the-badge"/>
 
 </div>
 
@@ -154,19 +337,37 @@ A real-time **hand gesture control system** that allows users to interact with t
 
 # 🛠️ Tech Stack
 
-## 👨‍💻 Programming
+## 🐍 Programming
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=python" height="48"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
 
 </p>
 
+```text
+Primary Language → Python
+```
+
+I use Python for:
+
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Automation
+* DSA
+* Backend logic
+* AI integrations
+* Desktop applications
+* Data processing
+
+---
+
 ## 🤖 AI / Machine Learning
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="48"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" height="50"/>
 
 </p>
 
@@ -179,11 +380,35 @@ A real-time **hand gesture control system** that allows users to interact with t
 
 </p>
 
-## ⚙️ Development & Tools
+---
+
+## 👁️ Computer Vision
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="48"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
+
+</p>
+
+Areas I'm exploring:
+
+```text
+Hand Tracking
+Gesture Recognition
+Landmark Detection
+Real-Time Vision
+Human-Computer Interaction
+Vision-Based Automation
+```
+
+---
+
+## ⚙️ Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="50"/>
 
 </p>
 
@@ -201,35 +426,35 @@ A real-time **hand gesture control system** that allows users to interact with t
 
 <tr>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🤖 AI Systems
 
-Building intelligent applications that can understand inputs, make decisions, and interact with tools.
+Building intelligent software capable of understanding input, reasoning about tasks, interacting with tools, and executing controlled actions.
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 👁️ Computer Vision
 
-Experimenting with hand tracking, gesture recognition, real-time vision, and human-computer interaction.
+Working with hand tracking, gesture recognition, real-time vision pipelines, and human-computer interaction.
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🧩 DSA
 
-Improving problem-solving skills with Data Structures & Algorithms using Python.
+Strengthening Data Structures & Algorithms using Python for technical interviews and problem solving.
 
 </td>
 
-<td width="25%" align="center">
+<td width="25%" align="center" valign="top">
 
 ### 🌐 Open Source
 
-Learning collaborative development, Git workflows, documentation, and real-world contribution practices.
+Learning collaborative engineering, Git workflows, documentation, issue tracking, pull requests, and production development practices.
 
 </td>
 
@@ -242,60 +467,233 @@ Learning collaborative development, Git workflows, documentation, and real-world
 # 📚 Currently Learning
 
 ```text
+AI / ML ENGINEERING
+│
 ├── 🐍 Advanced Python
+│
 ├── 🧩 Data Structures & Algorithms
+│
 ├── 🤖 Machine Learning
+│
 ├── 🧠 Deep Learning
+│
 ├── 👁️ Computer Vision
+│
 ├── 🏗️ AI System Design
+│
+├── 🤖 AI Agents
+│
+├── ⚙️ Intelligent Automation
+│
 ├── 🤝 Open Source Development
+│
 └── 🚀 Deployment & Production AI
 ```
 
-### My learning approach
+### My Learning Loop
 
-> **Understand → Build → Break → Debug → Improve → Repeat**
+```text
+UNDERSTAND
+    ↓
+IMPLEMENT
+    ↓
+EXPERIMENT
+    ↓
+BREAK
+    ↓
+DEBUG
+    ↓
+OPTIMIZE
+    ↓
+DOCUMENT
+    ↓
+BUILD AGAIN
+```
 
-I prefer learning concepts by implementing them in real projects instead of stopping at tutorials.
+> I prefer learning technologies by using them in real projects instead of stopping after courses or tutorials.
+
+---
+
+# 🧠 AI Engineering Direction
+
+The area that interests me most is the intersection of:
+
+```text
+                 Artificial Intelligence
+                          │
+                          ▼
+                  Machine Learning
+                          │
+                          ▼
+                  Computer Vision
+                          │
+                          ▼
+                     AI Agents
+                          │
+                          ▼
+                    Automation
+                          │
+                          ▼
+             Human-Computer Interaction
+                          │
+                          ▼
+             Intelligent Software Systems
+```
+
+My long-term goal is to build AI systems that don't simply generate responses.
+
+I want to build systems that can:
+
+```text
+PERCEIVE
+   ↓
+UNDERSTAND
+   ↓
+REASON
+   ↓
+PLAN
+   ↓
+USE TOOLS
+   ↓
+TAKE ACTION
+   ↓
+VERIFY
+   ↓
+IMPROVE
+```
 
 ---
 
 # 🏆 Certifications & Achievements
 
-### ☁️ Oracle
+## ☁️ Oracle
 
-🏅 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+### 🏅 Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 
-### 🐍 Machine Learning
-
-🏅 **Python for Machine Learning**
-SINE, IIT Bombay
-**Score: 96%**
-
-### 🤖 Generative AI
-
-🏅 **Career Essentials in Generative AI**
-Microsoft & LinkedIn
-
-### ☁️ Google Cloud
-
-🏅 **Google Cloud Platform for Machine Learning Essential Training**
+Focused on concepts related to generative AI and cloud-based AI technologies.
 
 ---
 
-# 💻 Competitive Programming & Coding
+## 🐍 Python & Machine Learning
+
+### 🏅 Python for Machine Learning
+
+**SINE, IIT Bombay**
+
+**Score: 96%**
+
+---
+
+## 🤖 Generative AI
+
+### 🏅 Career Essentials in Generative AI
+
+**Microsoft & LinkedIn**
+
+---
+
+## ☁️ Google Cloud
+
+### 🏅 Google Cloud Platform for Machine Learning Essential Training
+
+Training focused on machine-learning concepts and Google Cloud technologies.
+
+---
+
+# 🧩 Data Structures & Algorithms
+
+DSA is currently one of my major preparation priorities.
+
+### 🎯 Target
+
+```text
+Python
+  ↓
+Strong Fundamentals
+  ↓
+Pattern Recognition
+  ↓
+300+ Quality Problems
+  ↓
+Regular Contests
+  ↓
+Interview-Level Problem Solving
+```
+
+### Areas of Focus
+
+* Arrays
+* Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Binary Search
+* Linked Lists
+* Stacks
+* Queues
+* Trees
+* Binary Search Trees
+* Heaps
+* Recursion
+* Backtracking
+* Graphs
+* Greedy Algorithms
+* Dynamic Programming
 
 <div align="center">
 
 <a href="https://leetcode.com/u/3dIpAfoh0Z/">
-<img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-Solve%20With%20Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/birlasarvagya">
-<img src="https://img.shields.io/badge/HackerRank-View%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 </div>
+
+---
+
+# 💡 Engineering Mindset
+
+```text
+                    IDEA
+                      │
+                      ▼
+                   RESEARCH
+                      │
+                      ▼
+                  PROTOTYPE
+                      │
+                      ▼
+                    BUILD
+                      │
+                      ▼
+                     TEST
+                      │
+                      ▼
+              BREAK SOMETHING 😅
+                      │
+                      ▼
+                    DEBUG
+                      │
+                      ▼
+                  OPTIMIZE
+                      │
+                      ▼
+                  DOCUMENT
+                      │
+                      ▼
+                     SHIP
+```
+
+> Every project teaches me something new.
+
+> Every bug is another problem understood.
+
+> Every commit is another step toward becoming a better engineer.
+
+> Every difficult problem is another step toward the engineer I want to become.
 
 ---
 
@@ -305,7 +703,7 @@ Microsoft & LinkedIn
 
 <img
 height="180"
-src="https://github-readme-stats.vercel.app/api?username=Sarvagyabirla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=Sarvagyabirla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"
 />
 
 <img
@@ -351,91 +749,145 @@ src="https://github-profile-trophy.vercel.app/?username=Sarvagyabirla&theme=toky
 
 ---
 
-# 🎯 2026 Roadmap
+# 🎯 2026 Engineering Roadmap
 
-* [ ] 🧩 Solve **700+ quality DSA problems**
-* [ ] 🏆 Participate regularly in coding contests
-* [ ] 🤖 Build advanced AI/ML systems
-* [ ] 👁️ Build production-quality Computer Vision applications
-* [ ] 🧠 Strengthen Deep Learning fundamentals
-* [ ] 🛠️ Take **Aeris** toward a full intelligent assistant architecture
-* [ ] 🚀 Improve **SmartGestureOS** into a reliable real-time system
-* [ ] 🌐 Make meaningful Open Source contributions
-* [ ] ☁️ Learn AI application deployment
-* [ ] 🤝 Collaborate with other developers
-* [ ] 💼 Secure an **AI/ML internship**
-* [ ] 🌟 Build a strong AI Engineering portfolio
+## 🧩 Problem Solving
+
+* [ ] Solve hundreds of quality DSA problems
+* [ ] Build strong pattern-recognition skills
+* [ ] Participate regularly in coding contests
+* [ ] Become confident in technical interview problem solving
+
+## 🤖 Artificial Intelligence
+
+* [ ] Strengthen Machine Learning fundamentals
+* [ ] Develop deeper understanding of Deep Learning
+* [ ] Learn practical AI system architecture
+* [ ] Explore AI agents and tool-using AI
+* [ ] Learn production AI deployment
+
+## 🚀 Projects
+
+* [ ] Continue expanding **Aeris**
+* [ ] Improve Aeris voice latency and reliability
+* [ ] Improve Aeris desktop automation
+* [ ] Expand Aeris browser capabilities
+* [ ] Improve Aeris AI planning
+* [ ] Improve Aeris HUD and user experience
+* [ ] Make **SmartGestureOS** more stable and responsive
+* [ ] Build additional advanced AI/ML portfolio projects
+
+## 👁️ Computer Vision
+
+* [ ] Strengthen OpenCV fundamentals
+* [ ] Explore advanced computer-vision pipelines
+* [ ] Build production-quality real-time CV applications
+* [ ] Explore deep-learning-based vision systems
+
+## 🌐 Engineering
+
+* [ ] Make meaningful open-source contributions
+* [ ] Improve software architecture skills
+* [ ] Write cleaner production-quality Python
+* [ ] Strengthen Git and GitHub workflows
+* [ ] Learn testing and deployment
+* [ ] Collaborate with other developers
+
+## 💼 Career
+
+* [ ] Build a strong AI engineering portfolio
+* [ ] Secure a high-quality AI/ML internship
+* [ ] Become placement-ready
+* [ ] Prepare for AI/ML engineering opportunities
 
 ---
 
-# 🧭 Long-Term Direction
+# 🔮 Long-Term Vision
 
-I'm particularly interested in the intersection of:
+I'm especially interested in a future where AI moves beyond chat interfaces.
 
-```text
-Artificial Intelligence
-        ↓
-Computer Vision
-        ↓
-AI Agents
-        ↓
-Automation
-        ↓
-Human-Computer Interaction
-        ↓
-Intelligent Software Systems
-```
-
-My long-term goal is to build AI systems that don't just generate responses, but can **perceive, reason, use tools, take actions, and solve real-world problems.**
-
----
-
-# 💡 Engineering Mindset
+Instead of:
 
 ```text
-IDEA
+USER
   ↓
-RESEARCH
+PROMPT
   ↓
-PROTOTYPE
+AI
   ↓
-BUILD
-  ↓
-TEST
-  ↓
-BREAK SOMETHING 😅
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-SHIP
+TEXT RESPONSE
 ```
 
-> Every project teaches something new.
-> Every bug is another problem understood.
-> Every commit is another step toward becoming a better engineer.
-> Every problem that I face is next step toward my goal.
+I'm interested in:
+
+```text
+USER INTENT
+     │
+     ▼
+AI UNDERSTANDING
+     │
+     ▼
+CONTEXT
+     │
+     ▼
+REASONING
+     │
+     ▼
+PLANNING
+     │
+     ▼
+TOOLS
+     │
+     ▼
+REAL-WORLD ACTION
+     │
+     ▼
+VERIFICATION
+     │
+     ▼
+RESULT
+```
+
+That direction is one of the main reasons I'm building projects like **Aeris** and **SmartGestureOS**.
+
 ---
 
 # 🤝 Open to Opportunities
 
-I'm currently interested in:
+I'm currently interested in opportunities involving:
 
-* 🤖 AI / Machine Learning internships
-* 👁️ Computer Vision opportunities
-* 🐍 Python development
-* 🌐 Open Source collaboration
-* 🧠 AI research & experimentation
-* 🚀 Interesting technical projects
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 👁️ Computer Vision
+* 🐍 Python Development
+* ⚙️ AI Automation
+* 🧩 AI Agents
+* 🌐 Open Source
+* 🧪 AI Research & Experimentation
+* 🚀 Technical Collaborations
 
-If you're building something interesting around AI, ML, Computer Vision, or intelligent automation, feel free to connect.
+### 💼 Currently Open To
+
+```text
+AI / ML Internships
+Computer Vision Internships
+Python Development Opportunities
+Open Source Contributions
+AI Engineering Projects
+Technical Collaborations
+```
+
+If you're working on something interesting involving **AI, ML, computer vision, intelligent automation, or AI agents**, feel free to connect.
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <div align="center">
+
+### Have an AI idea, internship opportunity, project, or collaboration?
+
+<br/>
 
 <a href="mailto:birlasarvagya@gmail.com">
 <img src="https://img.shields.io/badge/Email-birlasarvagya%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -453,14 +905,32 @@ If you're building something interesting around AI, ML, Computer Vision, or inte
 <img src="https://img.shields.io/badge/LeetCode-3dIpAfoh0Z-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://www.hackerrank.com/profile/birlasarvagya">
+<img src="https://img.shields.io/badge/HackerRank-Sarvagya-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-### 💻 Building today. Learning every day. Engineering the future with AI. 
+## ⚡ Building Intelligent Systems, One Commit at a Time
+
+### `Learn → Build → Break → Debug → Improve → Repeat`
+
+<br/>
+
+### 💻 Building today. Learning every day. Engineering the future with AI.
+
+<br/>
 
 ⭐ **Thanks for visiting my GitHub profile!**
+
+### If one of my projects interests you, check out the repository and consider leaving a ⭐
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
