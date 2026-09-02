@@ -415,7 +415,7 @@ SHIP
 > Every project teaches something new.
 > Every bug is another problem understood.
 > Every commit is another step toward becoming a better engineer.
-
+> Every problem that I face is next step toward my goal.
 ---
 
 # 🤝 Open to Opportunities
@@ -459,7 +459,7 @@ If you're building something interesting around AI, ML, Computer Vision, or inte
 
 <div align="center">
 
-### 💻 Building today. Learning every day. Engineering the future with AI. 🤖
+### 💻 Building today. Learning every day. Engineering the future with AI. 
 
 ⭐ **Thanks for visiting my GitHub profile!**
 
