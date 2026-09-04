@@ -648,7 +648,7 @@ USER → PROMPT → AI → TEXT
 
 <div align="center">
 
-### 💼 I'm currently looking for
+### 💼 I'm currently looking for this
 
 <img src="https://img.shields.io/badge/AI%2FML-Internships-00F7FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer_Vision-Opportunities-8A2BE2?style=for-the-badge"/>
