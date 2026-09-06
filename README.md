@@ -45,7 +45,7 @@ src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pau
 
 ### Hey, I'm **Sarvagya Birla** 👋
 
-I'm a **3rd-year B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning** at **IPS Academy Institute of Engineering & Science, Indore**.
+I'm a **3rd-year B.Tech Computer Science Engineering student specializing in Artificial Intelligence & Machine Learning** at **IPS Academy, Institute of Engineering & Science, Indore**.
 
 I love building AI systems that go beyond simply generating text.
 
