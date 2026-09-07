@@ -135,19 +135,19 @@ Aeris is an AI-powered Windows desktop assistant designed to **understand natura
 
 ### ✨ What Aeris Can Do
 
-🎙️ Voice commands & wake word
-🧠 Gemini AI reasoning
-👁️ Screen understanding
-💻 Windows desktop control
-📁 Safe filesystem operations
-🌐 Browser & web actions
-📧 Gmail integration
-🧑‍💻 AI coding-project generation
-📦 Software management
-🎵 Media control
-🔊 Volume & brightness control
-📊 Computer health monitoring
-🛡️ Permission-based execution
+🎙️ Voice commands & wake word.
+🧠 Gemini AI reasoning.
+👁️ Screen understanding.
+💻 Windows desktop control.
+📁 Safe filesystem operations.
+🌐 Browser & web actions.
+📧 Gmail integration.
+🧑‍💻 AI coding-project generation.
+📦 Software management.
+🎵 Media control.
+🔊 Volume & brightness control.
+📊 Computer health monitoring.
+🛡️ Permission-based execution.
 
 ### 🔐 Architecture
 
@@ -201,16 +201,16 @@ SmartGestureOS is a computer-vision project that allows users to **control deskt
 
 ### ✨ Features
 
-🖱️ Cursor movement
-👆 Left click
-👆 Double click
-🤏 Pinch detection
-✋ Drag operations
-🔄 Gesture scrolling
-🖱️ Right click
-📸 Desktop actions
-🎨 Drawing experiments
-👁️ Real-time hand tracking
+🖱️ Cursor movement.
+👆 Left click.
+👆 Double click.
+🤏 Pinch detection.
+✋ Drag operations.
+🔄 Gesture scrolling.
+🖱️ Right click.
+📸 Desktop actions.
+🎨 Drawing experiments.
+👁️ Real-time hand tracking.
 
 ### 🧠 Pipeline
 
