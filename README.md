@@ -539,12 +539,12 @@ INTERVIEW PREPARATION
 
 ### 💻 Career & Coding
 
-* [ ] Strengthen DSA using Python
-* [ ] Solve quality interview problems
-* [ ] Participate in coding contests
-* [ ] Contribute to Open Source
-* [ ] Build a strong AI portfolio
-* [ ] Secure an AI/ML internship
+* [ ] Strengthen DSA using Python.
+* [ ] Solve quality interview problems.
+* [ ] Participate in coding contests.
+* [ ] Contribute to Open Source.
+* [ ] Build a strong AI portfolio.
+* [ ] Secure an AI/ML internship.
 
 </td>
 
