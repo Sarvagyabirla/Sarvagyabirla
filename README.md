@@ -570,12 +570,12 @@ INTERVIEW PREPARATION
 
 ### 👁️ Computer Vision
 
-* [ ] Improve SmartGestureOS
-* [ ] Reduce gesture latency
-* [ ] Improve gesture detection
-* [ ] Explore advanced OpenCV
-* [ ] Build new CV systems
-* [ ] Explore deep-learning vision models
+* [ ] Improve SmartGestureOS.
+* [ ] Reduce gesture latency.
+* [ ] Improve gesture detection.
+* [ ] Explore advanced OpenCV.
+* [ ] Build new CV systems.
+* [ ] Explore deep-learning vision models.
 
 </td>
 
