@@ -526,12 +526,12 @@ INTERVIEW PREPARATION
 
 ### 🤖 AI Engineering
 
-* [ ] Build advanced AI systems
-* [ ] Strengthen Machine Learning
-* [ ] Learn Deep Learning deeply
-* [ ] Explore AI Agents
-* [ ] Learn production AI deployment
-* [ ] Improve AI system architecture
+* [ ] Build advanced AI systems.
+* [ ] Strengthen Machine Learning.
+* [ ] Learn Deep Learning deeply.
+* [ ] Explore AI Agents.
+* [ ] Learn production AI deployment.
+* [ ] Improve AI system architecture.
 
 </td>
 
@@ -556,13 +556,13 @@ INTERVIEW PREPARATION
 
 ### ⚡ Aeris
 
-* [ ] Improve response speed
-* [ ] Improve voice interaction
-* [ ] Improve desktop automation
-* [ ] Expand browser capabilities
-* [ ] Improve AI planning
-* [ ] Build a more advanced HUD
-* [ ] Expand application integrations
+* [ ] Improve response speed.
+* [ ] Improve voice interaction.
+* [ ] Improve desktop automation.
+* [ ] Expand browser capabilities.
+* [ ] Improve AI planning.
+* [ ] Build a more advanced HUD.
+* [ ] Expand application integrations.
 
 </td>
 
