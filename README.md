@@ -713,11 +713,11 @@ I'd love to connect.
 
 <br/>
 
-### 🤖 Building Intelligent Systems
+### 🤖 Building Intelligent Systems.
 
-### 🐍 One Python File at a Time
+### 🐍 One Python File at a Time.
 
-### 🚀 One Commit Closer to Becoming an AI Engineer
+### 🚀 One Commit Closer to Becoming an AI Engineer.
 
 <br/>
 
