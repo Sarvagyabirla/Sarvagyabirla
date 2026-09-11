@@ -70,7 +70,7 @@ Degree: B.Tech CSE
 Specialization: AI & ML
 Year: 3rd Year
 
-Location: Indore, India
+Location: Indore, India.
 
 Primary Language:
   - Python 🐍
@@ -79,8 +79,8 @@ Career Goal:
   - AI / ML Engineer 🤖
 
 Currently Building:
-  - Aeris AI Assistant
-  - SmartGestureOS
+  - Aeris AI Assistant.
+  - SmartGestureOS.
 
 Open To:
   - AI/ML Internships
