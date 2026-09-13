@@ -64,11 +64,11 @@ I learn best by actually building things, breaking them, debugging them and maki
 ### ⚡ Quick Info
 
 ```yaml
-Name: Sarvagya Birla
+Name: Sarvagya Birla.
 
-Degree: B.Tech CSE
-Specialization: AI & ML
-Year: 3rd Year
+Degree: B.Tech CSE.
+Specialization: AI & ML.
+Year: 3rd Year.
 
 Location: Indore, India.
 
@@ -83,9 +83,9 @@ Currently Building:
   - SmartGestureOS.
 
 Open To:
-  - AI/ML Internships
-  - Collaborations
-  - Open Source
+  - AI/ML Internships.
+  - Collaborations.
+  - Open Source.
 ```
 
 </td>
@@ -97,7 +97,7 @@ Open To:
 
 <div align="center">
 
-## 🎯 My Engineering Direction
+## 🎯 My Engineering Direction.
 
 ### I don't just want to **use AI**.
 
