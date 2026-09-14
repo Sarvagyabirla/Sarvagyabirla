@@ -1,182 +1,378 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=190&section=header&text=Sarvagya%20Birla&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Student%20%7C%20Python%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" />
+# Hi, I'm Sarvagya Birla 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=820&lines=Building+AI+that+can+perceive%2C+reason+and+act;Computer+Vision+%2B+Automation+%2B+AI+Agents;Learning+by+building+real+systems" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2300&pause=700&color=7C3AED&center=true&vCenter=true&repeat=true&width=900&lines=B.Tech+CSE+%7C+Artificial+Intelligence+%26+Machine+Learning;Python+%E2%80%A2+Computer+Vision+%E2%80%A2+AI+Agents+%E2%80%A2+Automation;Building+AI+systems+that+can+perceive%2C+reason+and+act;Currently+looking+for+AI%2FML+internship+opportunities"
+  alt="Animated introduction"
+/>
 
-<br/>
+### AI/ML Engineer in Progress · Python Developer · Computer Vision Builder
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sarvagyabirla&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Sarvagyabirla)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarvagya%20Birla-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvagyabirla)
+**I like building AI that can interact with the real world, not just answer questions.**
+
+[GitHub](https://github.com/Sarvagyabirla) •
+[LinkedIn](https://www.linkedin.com/in/sarvagyabirla)
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-```yaml
-name: Sarvagya Birla
-education: B.Tech CSE — Artificial Intelligence & Machine Learning
-stage: 3rd Year
-focus: [AI/ML, Computer Vision, AI Agents, Automation]
-primary_language: Python
-goal: AI/ML Internship → AI Engineer
+I'm a **3rd-year B.Tech CSE student specializing in Artificial Intelligence & Machine Learning**.
+
+My main interest is building practical intelligent systems using **Python, Computer Vision, AI agents and automation**.
+
+Instead of focusing only on tutorials or basic ML notebooks, I enjoy projects where AI can:
+
+```text
+SEE → UNDERSTAND → REASON → DECIDE → USE TOOLS → ACT
 ```
 
-I build **AI systems that do something useful**, not just notebook demos.
+### Right now, I'm focused on
 
-Currently focused on strengthening **Python + DSA** while building deeper projects in **computer vision, desktop AI, agents and automation**.
+- 🐍 Strengthening **Python** and problem solving
+- 🧩 Learning **DSA in Python**
+- 🤖 Building deeper foundations in **Machine Learning**
+- 👁️ Developing **real-time Computer Vision systems**
+- 🦾 Exploring **AI Agents and intelligent automation**
+- 🚀 Preparing for **AI/ML internships and placements**
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Developer Snapshot
+
+```python
+sarvagya = {
+    "role": "AI/ML Engineer in Progress",
+    "education": "B.Tech CSE - AI & ML",
+    "year": "3rd Year",
+
+    "main_language": "Python",
+
+    "interests": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Computer Vision",
+        "AI Agents",
+        "Automation",
+        "Human-Computer Interaction"
+    ],
+
+    "currently_learning": [
+        "DSA in Python",
+        "Machine Learning",
+        "Deep Learning",
+        "Agentic AI"
+    ],
+
+    "mission": "Build intelligent systems that solve real problems"
+}
+```
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🤖 [AERIS AI Assistant](https://github.com/Sarvagyabirla/Aeris-AI-Assistant)
+## 🤖 AERIS
 
-A local-first, permission-based Windows AI assistant combining **voice, screen understanding, reasoning and safe desktop automation**.
+### Intelligent Desktop AI Assistant
 
-**Highlights**
+[Aeris-AI-Assistant →](https://github.com/Sarvagyabirla/Aeris-AI-Assistant)
 
-🎙 Voice + Wake Word  
-🧠 Gemini Reasoning  
-👁 Screen Understanding  
-⚙️ Desktop Automation  
-🌐 Browser Actions  
-💻 Coding Assistance  
-📂 Secure File Operations  
-📴 Offline Commands  
+A local-first Windows AI assistant designed to go beyond normal chatbot interaction.
 
-`Python` `Gemini` `Automation` `Voice AI`
+Aeris combines **voice, AI reasoning, desktop automation, tool execution and permission-based computer control**.
+
+### Core capabilities
+
+- 🎙 Voice interaction
+- 🗣 Wake-word activation
+- 🧠 Gemini-powered reasoning
+- 👁 Screen understanding
+- 🖥 Desktop automation
+- 🌐 Browser interaction
+- 📂 Secure file operations
+- 💻 Coding assistance
+- 📧 Gmail integration
+- 📴 Offline desktop commands
+- 🔐 Permission-based execution
+
+### Built With
+
+`Python` `Gemini` `Automation` `Voice AI` `Windows APIs`
 
 </td>
 
 <td width="50%" valign="top">
 
-### ✋ [SmartGestureOS](https://github.com/Sarvagyabirla/SmartGestureOS)
+## ✋ SmartGestureOS
 
-A real-time **computer-vision desktop controller** that maps webcam hand gestures to Windows actions.
+### Real-Time Gesture Desktop Control
 
-**Highlights**
+[SmartGestureOS →](https://github.com/Sarvagyabirla/SmartGestureOS)
 
-🖱 Cursor Control  
-👆 Click / Drag / Scroll  
-🔊 Volume Control  
-☀️ Brightness Control  
-🎵 Media Controls  
-🎨 Drawing Mode  
-⚡ Async Processing  
-🎯 Gesture Smoothing  
+A real-time Computer Vision system that converts hand gestures captured by a webcam into desktop actions.
 
-`Python` `OpenCV` `MediaPipe` `PyAutoGUI`
+The project explores **touchless human-computer interaction**.
+
+### Core capabilities
+
+- 🖱 Cursor control
+- 👆 Click / Double Click
+- ✋ Drag & Drop
+- 📜 Scrolling
+- 🔊 Volume control
+- ☀️ Brightness control
+- 🎵 Media commands
+- 🎨 Drawing mode
+- 📸 Screenshot actions
+- ⚡ Async vision processing
+- 🎯 Gesture smoothing
+
+### Built With
+
+`Python` `OpenCV` `MediaPipe` `PyAutoGUI` `CustomTkinter`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technology I Work With
 
-<div align="center">
+<table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<tr>
+<td><b>Programming</b></td>
+<td>Python · C++ Basics</td>
+</tr>
 
-<br/>
+<tr>
+<td><b>AI / ML</b></td>
+<td>Machine Learning · Generative AI · AI Agents · Neural Networks</td>
+</tr>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<tr>
+<td><b>Computer Vision</b></td>
+<td>OpenCV · MediaPipe · Real-Time Vision Processing</td>
+</tr>
 
-</div>
+<tr>
+<td><b>Data</b></td>
+<td>NumPy · Pandas · Matplotlib</td>
+</tr>
+
+<tr>
+<td><b>Automation</b></td>
+<td>PyAutoGUI · pynput · Desktop Automation · Tool Execution</td>
+</tr>
+
+<tr>
+<td><b>Development</b></td>
+<td>Git · GitHub · VS Code · Virtual Environments · Pytest</td>
+</tr>
+
+<tr>
+<td><b>Platforms</b></td>
+<td>Windows · Google Gemini APIs</td>
+</tr>
+
+</table>
 
 ---
 
-## 🏆 Credentials
+# 🧠 What I'm Interested In Building
+
+I am especially interested in projects where multiple AI disciplines work together.
+
+```text
+                  INTELLIGENT SYSTEM
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+  COMPUTER VISION     AI REASONING     AUTOMATION
+        │                │                │
+        ▼                ▼                ▼
+    PERCEPTION         DECISION          ACTION
+        │                │                │
+        └────────────────┼────────────────┘
+                         ▼
+                REAL-WORLD INTERACTION
+```
+
+### Areas I'm exploring
+
+**AI Agents**  
+Systems that can reason, select tools and perform multi-step tasks.
+
+**Computer Vision**  
+Real-time perception, hand tracking, object understanding and human-computer interaction.
+
+**Multimodal AI**  
+Systems combining voice, text, vision and actions.
+
+**Intelligent Automation**  
+AI that interacts with applications, browsers, files and operating systems safely.
+
+---
+
+# 🏆 Selected Certifications
 
 <details>
 
-<summary><b>🏅 View selected certifications</b></summary>
+<summary><b>View Certifications</b></summary>
 
-<br/>
+<br>
 
-- **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-- **Python for Machine Learning — SINE, IIT Bombay** • Score: **96%**
-- **Google Cloud Platform for Machine Learning Essential Training**
-- **Career Essentials in Generative AI — Microsoft & LinkedIn**
+### ☁️ Oracle
+
+**Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+
+---
+
+### 🐍 Python for Machine Learning
+
+**Python for Machine Learning Training**  
+SINE, IIT Bombay
+
+**Score: 96%**
+
+---
+
+### ☁️ Google Cloud
+
+**Google Cloud Platform for Machine Learning Essential Training**
+
+---
+
+### 🤖 Microsoft & LinkedIn
+
+**Career Essentials in Generative AI**
+
+---
+
+### Additional Learning
+
+- Artificial Intelligence
+- Generative AI
+- Responsible AI
+- AI Ethics
+- Microsoft Copilot
 
 </details>
 
 ---
 
-## 📊 GitHub Activity
+# 🎯 Current Mission
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarvagyabirla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=Sarvagyabirla&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-
-</div>
+```text
+2026
+ │
+ ├── Master Python fundamentals
+ │
+ ├── Build strong DSA foundations
+ │
+ ├── Strengthen Machine Learning
+ │
+ ├── Learn Deep Learning
+ │
+ ├── Build advanced Computer Vision projects
+ │
+ ├── Explore AI Agents
+ │
+ ├── Improve open-source presence
+ │
+ └── Secure an AI / ML Internship
+         │
+         ▼
+     AI / ML ENGINEER 🚀
+```
 
 ---
 
-## 🐍 Contribution Snake
+# ⚡ Contribution Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarvagyabirla/Sarvagyabirla/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarvagyabirla/Sarvagyabirla/output/github-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Sarvagyabirla/Sarvagyabirla/output/github-snake.svg">
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sarvagyabirla/Sarvagyabirla/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sarvagyabirla/Sarvagyabirla/output/github-snake.svg"
+  />
+
+  <img
+    alt="Sarvagya Birla GitHub contribution animation"
+    src="https://raw.githubusercontent.com/Sarvagyabirla/Sarvagyabirla/output/github-snake-dark.svg"
+  />
+
 </picture>
 
 </div>
 
 ---
 
-## 🎯 Current Direction
+# 💡 Engineering Mindset
 
 ```text
-Python + DSA
-      ↓
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-Computer Vision
-      ↓
-AI Agents
-      ↓
-Intelligent Systems
-      ↓
-AI / ML Engineer 🚀
+IDEA
+  ↓
+UNDERSTAND THE PROBLEM
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+SHIP
+  ↓
+REPEAT
 ```
+
+I'm still learning, but I prefer learning by **building things that are difficult enough to expose what I don't know yet.**
 
 ---
 
-## 🤝 Connect
+# 🤝 Let's Connect
+
+I'm interested in connecting with people working in:
+
+`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Python` · `AI Agents` · `Automation`
 
 <div align="center">
 
-**AI/ML • Computer Vision • Python • AI Agents • Automation**
+### Open to AI/ML Internship Opportunities 🚀
 
-<br/>
+[LinkedIn](https://www.linkedin.com/in/sarvagyabirla) •
+[GitHub](https://github.com/Sarvagyabirla)
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvagyabirla)
+<br><br>
 
-<br/>
-<br/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=450&color=22D3EE&center=true&vCenter=true&repeat=true&width=780&lines=Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Fail+%E2%86%92+Improve;One+project+closer+to+becoming+an+AI+Engineer+%F0%9F%9A%80"
+  alt="Animated closing message"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=500&color=58A6FF&center=true&vCenter=true&repeat=true&width=650&lines=Build+%E2%86%92+Test+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat+%F0%9F%9A%80" />
+### Building one intelligent system at a time.
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
