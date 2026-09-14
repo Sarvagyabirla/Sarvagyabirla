@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Premium Contribution Snake
 
 on:
   schedule:
@@ -19,17 +19,16 @@ jobs:
     timeout-minutes: 10
 
     steps:
-
-      - name: Generate Snake
+      - name: Generate Custom Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
 
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#7C3AED&color_dots=#EBEDF0,#C7D2FE,#93C5FD,#6366F1,#7C3AED
+            dist/github-snake-dark.svg?color_snake=#A78BFA&color_dots=#0D1117,#172554,#1E3A8A,#4F46E5,#22D3EE
 
-      - name: Push Snake to Output Branch
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
