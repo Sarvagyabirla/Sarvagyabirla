@@ -432,7 +432,7 @@ Training focused on Generative AI fundamentals, modern AI workflows and responsi
 
 ---
 
-# `08.` ⚙️ How I Build
+# `07.` ⚙️ How I Build
 
 ```text
 01  FIND A REAL PROBLEM
@@ -469,7 +469,7 @@ Training focused on Generative AI fundamentals, modern AI workflows and responsi
 
 ---
 
-# `09.` ⚡ GitHub Activity
+# `08.` ⚡ GitHub Activity
 
 <div align="center">
 
@@ -487,7 +487,7 @@ Training focused on Generative AI fundamentals, modern AI workflows and responsi
 
 ---
 
-# `10.` 🐍 Contribution Flow
+# `09.` 🐍 Contribution Flow
 
 <div align="center">
 
@@ -514,7 +514,7 @@ Training focused on Generative AI fundamentals, modern AI workflows and responsi
 
 ---
 
-# `11.` 🤝 Let's Build Something Intelligent
+# `10.` 🤝 Let's Build Something Intelligent
 
 <div align="center">
 
