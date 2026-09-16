@@ -428,44 +428,6 @@ Training focused on Generative AI fundamentals, modern AI workflows and responsi
 
 ---
 
-# `07.` 🎯 Current Mission
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│                       2026                               │
-│                                                          │
-│                 MASTER PYTHON                            │
-│                       │                                  │
-│                       ▼                                  │
-│              BUILD DSA FOUNDATION                        │
-│                       │                                  │
-│                       ▼                                  │
-│              MACHINE LEARNING                            │
-│                       │                                  │
-│                       ▼                                  │
-│               DEEP LEARNING                              │
-│                       │                                  │
-│                       ▼                                  │
-│              COMPUTER VISION                             │
-│                       │                                  │
-│                       ▼                                  │
-│                  AI AGENTS                               │
-│                       │                                  │
-│                       ▼                                  │
-│           ADVANCED REAL-WORLD PROJECTS                   │
-│                       │                                  │
-│                       ▼                                  │
-│              AI / ML INTERNSHIP                          │
-│                       │                                  │
-│                       ▼                                  │
-│               AI / ML ENGINEER 🚀                        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
 </div>
 
 ---
