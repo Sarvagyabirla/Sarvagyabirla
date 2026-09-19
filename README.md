@@ -12,7 +12,7 @@
 
 <br/>
 
-### `AI/ML Engineer in Progress`
+### `AI/ML Engineer in Progress.`
 
 **Building intelligent systems that move beyond prediction and actually interact with the world.**
 
@@ -91,7 +91,7 @@ I am more interested in building:
 
 ---
 
-# `02.` ⚡ Current Focus
+# `02.` ⚡ Current Focus.
 
 <table>
 <tr>
