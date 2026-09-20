@@ -28,7 +28,7 @@
 
 ---
 
-# `01.` 👨‍💻 About Me
+# `01.` 👨‍💻 About Me.
 
 ```yaml
 developer:
@@ -108,7 +108,7 @@ Writing better code, strengthening fundamentals and solving problems.
 <td align="center" width="25%">
 
 ### 🧠
-### AI / ML
+### AI / ML.
 
 Machine Learning, Deep Learning and intelligent systems.
 
@@ -117,7 +117,7 @@ Machine Learning, Deep Learning and intelligent systems.
 <td align="center" width="25%">
 
 ### 👁️
-### Vision
+### Vision.
 
 Real-time Computer Vision and Human-Computer Interaction.
 
@@ -126,7 +126,7 @@ Real-time Computer Vision and Human-Computer Interaction.
 <td align="center" width="25%">
 
 ### 🤖
-### Agents
+### Agents.
 
 Tool-using AI, automation and autonomous workflows.
 
@@ -145,7 +145,7 @@ PYTHON  →  DSA  →  ML  →  DEEP LEARNING  →  VISION  →  AGENTS  →  IN
 
 ---
 
-# `03.` 🚀 Featured Builds
+# `03.` 🚀 Featured Builds.
 
 <table>
 
@@ -188,7 +188,7 @@ TOOL SELECTION
 EXECUTION
 ```
 
-### Core Systems
+### Core Systems.
 
 `Voice Interaction`  
 `Wake Word`  
@@ -201,7 +201,7 @@ EXECUTION
 `Gmail Integration`  
 `Offline Commands`
 
-### Stack
+### Stack.
 
 `Python` `Gemini` `Windows` `Automation`
 
