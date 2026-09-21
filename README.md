@@ -167,7 +167,7 @@ PYTHON  →  DSA  →  ML  →  DEEP LEARNING  →  VISION  →  AGENTS  →  IN
 
 Aeris is a **local-first, permission-based AI assistant for Windows** designed to understand natural-language commands and safely interact with the computer.
 
-### Architecture
+### Architecture.
 
 ```text
 VOICE / TEXT
@@ -223,7 +223,7 @@ EXECUTION
 
 A touchless **Human-Computer Interaction system** that converts hand movements captured through a webcam into desktop commands.
 
-### Architecture
+### Architecture.
 
 ```text
 WEBCAM
@@ -244,7 +244,7 @@ ACTION MAPPING
 WINDOWS CONTROL
 ```
 
-### Core Systems
+### Core Systems.
 
 `Cursor Control`  
 `Click / Drag / Scroll`  
