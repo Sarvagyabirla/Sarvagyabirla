@@ -469,7 +469,7 @@ Training focused on Generative AI fundamentals, modern AI workflows and responsi
 
 ---
 
-# `08.` ⚡ GitHub Activity
+# `08.` ⚡ GitHub Activity.
 
 <div align="center">
 
@@ -487,7 +487,7 @@ Training focused on Generative AI fundamentals, modern AI workflows and responsi
 
 ---
 
-# `09.` 🐍 Contribution Flow
+# `09.` 🐍 Contribution Flow.
 
 <div align="center">
 
@@ -514,17 +514,17 @@ Training focused on Generative AI fundamentals, modern AI workflows and responsi
 
 ---
 
-# `10.` 🤝 Let's Build Something Intelligent
+# `10.` 🤝 Let's Build Something Intelligent.
 
 <div align="center">
 
 I'm currently interested in opportunities involving
 
-### `AI / ML` • `Python` • `Computer Vision` • `AI Agents` • `Automation`
+### `AI / ML` • `Python` • `Computer Vision` • `AI Agents` • `Automation.`
 
 <br/>
 
-### 🚀 Open to AI/ML Internship Opportunities
+### 🚀 Open to AI/ML Internship Opportunities.
 
 <br/>
 
