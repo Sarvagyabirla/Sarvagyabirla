@@ -338,7 +338,7 @@ WINDOWS CONTROL
 
 ---
 
-# `05.` 🧠 What I Want to Build
+# `05.` 🧠 What I Want to Build.
 
 <div align="center">
 
@@ -368,13 +368,13 @@ WINDOWS CONTROL
 
 My long-term interest is in systems that combine:
 
-### `Vision × Language × Reasoning × Tools × Automation`
+### `Vision × Language × Reasoning × Tools × Automation.`
 
 Examples include autonomous desktop agents, multimodal assistants, developer agents, Computer Vision interfaces and intelligent workflow systems.
 
 ---
 
-# `06.` 🏆 Selected Credentials
+# `06.` 🏆 Selected Credentials.
 
 <details>
 
@@ -432,7 +432,7 @@ Training focused on Generative AI fundamentals, modern AI workflows and responsi
 
 ---
 
-# `07.` ⚙️ How I Build
+# `07.` ⚙️ How I Build.
 
 ```text
 01  FIND A REAL PROBLEM
