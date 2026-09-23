@@ -267,7 +267,7 @@ WINDOWS CONTROL
 
 ---
 
-# `04.` 🧩 Engineering Stack
+# `04.` 🧩 Engineering Stack.
 
 <table>
 
