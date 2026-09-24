@@ -95,7 +95,7 @@ I am interested in **applied AI engineering**, especially where multiple technol
 
 ---
 
-# ⚡ What I'm Focused On
+# ⚡ What I'm Focused On.
 
 <table>
 <tr>
