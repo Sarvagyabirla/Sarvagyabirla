@@ -14,7 +14,7 @@
 
 <br/>
 
-### `AI / ML Engineer in Progress`
+### `AI / ML Engineer in Progress.`
 
 **I build intelligent systems that move beyond prediction and interact with software, people and the real world.**
 
@@ -102,7 +102,7 @@ I am interested in **applied AI engineering**, especially where multiple technol
 
 <td width="25%" align="center">
 
-### 🐍 Python
+### 🐍 Python.
 
 Strong fundamentals  
 Clean engineering  
@@ -112,7 +112,7 @@ Problem solving
 
 <td width="25%" align="center">
 
-### 🧠 AI / ML
+### 🧠 AI / ML.
 
 Machine Learning  
 Deep Learning  
@@ -122,7 +122,7 @@ Generative AI
 
 <td width="25%" align="center">
 
-### 👁️ Vision
+### 👁️ Vision.
 
 OpenCV  
 MediaPipe  
@@ -132,7 +132,7 @@ Real-time systems
 
 <td width="25%" align="center">
 
-### 🤖 Agents
+### 🤖 Agents.
 
 Tool use  
 Automation  
@@ -165,15 +165,15 @@ INTELLIGENT SYSTEMS
 
 ---
 
-# 🚀 Engineering Projects
+# 🚀 Engineering Projects.
 
-## 🤖 AERIS
+## 🤖 AERIS.
 
-### `Local-First Cognitive Desktop AI Assistant`
+### `Local-First Cognitive Desktop AI Assistant.`
 
 > An intelligent Windows assistant designed to understand natural-language commands, reason about them, use tools and safely interact with the computer.
 
-### Architecture
+### Architecture.
 
 ```text
 
@@ -205,7 +205,7 @@ INTELLIGENT SYSTEMS
 
 ```
 
-### What I'm Building Into Aeris
+### What I'm Building Into Aeris.
 
 `Voice Interaction`
 `Wake Word`
@@ -219,7 +219,7 @@ INTELLIGENT SYSTEMS
 `Offline Commands`
 `Permission-Based Execution`
 
-### Stack
+### Stack.
 
 `Python` • `Gemini` • `Windows APIs` • `Automation` • `Voice AI`
 
@@ -231,13 +231,13 @@ INTELLIGENT SYSTEMS
 
 ---
 
-## ✋ SmartGestureOS
+## ✋ SmartGestureOS.
 
-### `Real-Time Computer Vision Desktop Controller`
+### `Real-Time Computer Vision Desktop Controller.`
 
 > A touchless human-computer interaction system that converts hand gestures captured through a webcam into Windows actions.
 
-### Vision Pipeline
+### Vision Pipeline.
 
 ```text
 
@@ -266,7 +266,7 @@ INTELLIGENT SYSTEMS
 
 ```
 
-### Current Capabilities
+### Current Capabilities.
 
 `Cursor Movement`
 `Click`
@@ -281,7 +281,7 @@ INTELLIGENT SYSTEMS
 `Gesture Smoothing`
 `Async Vision Processing`
 
-### Stack
+### Stack.
 
 `Python` • `OpenCV` • `MediaPipe` • `PyAutoGUI` • `CustomTkinter`
 
@@ -293,23 +293,23 @@ INTELLIGENT SYSTEMS
 
 ---
 
-# 🧩 Engineering Stack
+# 🧩 Engineering Stack.
 
 <div align="center">
 
-### Languages
+### Languages.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### AI / Machine Learning
+### AI / Machine Learning.
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-312E81?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-0891B2?style=for-the-badge)
 
-### Libraries
+### Libraries.
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
@@ -317,7 +317,7 @@ INTELLIGENT SYSTEMS
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Engineering Tools
+### Engineering Tools.
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -328,7 +328,7 @@ INTELLIGENT SYSTEMS
 
 ---
 
-# 🧠 Engineering Direction
+# 🧠 Engineering Direction.
 
 <div align="center">
 
@@ -358,7 +358,7 @@ INTELLIGENT SYSTEMS
 
 ```
 
-### Systems I want to explore
+### Systems I want to explore.
 
 `Multimodal AI`
 `AI Desktop Agents`
@@ -373,7 +373,7 @@ INTELLIGENT SYSTEMS
 
 ---
 
-# 🏆 Selected Credentials
+# 🏆 Selected Credentials.
 
 <details>
 
@@ -381,13 +381,13 @@ INTELLIGENT SYSTEMS
 
 <br/>
 
-### ☁️ Oracle
+### ☁️ Oracle.
 
 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 
 ---
 
-### 🐍 Python for Machine Learning
+### 🐍 Python for Machine Learning.
 
 **Python for Machine Learning Training**  
 SINE, IIT Bombay
@@ -398,13 +398,13 @@ Score → 96%
 
 ---
 
-### ☁️ Google Cloud
+### ☁️ Google Cloud.
 
 **Google Cloud Platform for Machine Learning Essential Training**
 
 ---
 
-### 🤖 Microsoft & LinkedIn
+### 🤖 Microsoft & LinkedIn.
 
 **Career Essentials in Generative AI**
 
@@ -422,7 +422,7 @@ Score → 96%
 
 ---
 
-# ⚙️ Engineering Process
+# ⚙️ Engineering Process.
 
 ```text
 
