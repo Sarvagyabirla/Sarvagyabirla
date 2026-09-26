@@ -1,28 +1,31 @@
 <div align="center">
 
-<!-- ===================== ANIMATED HERO ===================== -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            HERO SECTION                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:312E81,75:6D28D9,100:0891B2&height=230&section=header&text=SARVAGYA%20BIRLA&fontSize=52&fontColor=F8FAFC&fontAlignY=35&desc=AI%20%2F%20ML%20%E2%80%A2%20PYTHON%20%E2%80%A2%20COMPUTER%20VISION%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descSize=16&descAlignY=56&animation=twinkling"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:0891B2&height=245&section=header&text=SARVAGYA%20BIRLA&fontSize=54&fontColor=F8FAFC&fontAlignY=34&desc=AI%20%2F%20ML%20%E2%80%A2%20PYTHON%20%E2%80%A2%20COMPUTER%20VISION%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descSize=16&descAlignY=55&animation=twinkling"
 />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2100&pause=650&color=22D3EE&center=true&vCenter=true&repeat=true&width=950&lines=Building+AI+systems+that+can+perceive%2C+reason+and+act.;Computer+Vision+%C3%97+AI+Agents+%C3%97+Automation;Turning+curiosity+into+working+engineering+systems.;Learning+by+building+things+that+are+hard."
-  alt="Sarvagya Birla animated introduction"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&repeat=true&width=950&lines=Building+AI+systems+that+perceive%2C+reason+and+act.;Python+%C3%97+Computer+Vision+%C3%97+AI+Agents;Turning+ideas+into+working+engineering+systems.;Learning+by+building+things+that+are+actually+hard."
+  alt="Animated introduction"
 />
 
 <br/>
 
-### `AI / ML Engineer in Progress.`
+### `AI / ML Engineer in Progress`
 
-**I build intelligent systems that move beyond prediction and interact with software, people and the real world.**
+**Building intelligent systems that move beyond prediction and interact with software, people and the real world.**
 
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sarvagyabirla-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarvagyabirla)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarvagya_Birla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvagyabirla)
-![Open To Work](https://img.shields.io/badge/Open_To-AI%2FML_Internships-7C3AED?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sarvagya%20Birla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvagyabirla)
+![Open To Work](https://img.shields.io/badge/Open%20To-AI%2FML%20Internships-7C3AED?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Sarvagyabirla&label=PROFILE+VIEWS&color=0891B2&style=for-the-badge)
 
 </div>
 
@@ -30,20 +33,20 @@
 
 ---
 
-## `$ whoami`
+# 👨‍💻 `$ whoami`
 
 ```yaml
 name: Sarvagya Birla
 
 education:
-  degree: B.Tech CSE
+  degree: B.Tech Computer Science & Engineering
   specialization: Artificial Intelligence & Machine Learning
   year: 3rd Year
 
 engineering:
   primary_language: Python
 
-  domains:
+  interests:
     - Artificial Intelligence
     - Machine Learning
     - Computer Vision
@@ -60,83 +63,98 @@ currently_learning:
 mission:
   "Build intelligent systems that solve real-world problems."
 
-next_target:
-  "AI / ML Internship → AI / ML Engineer"
+current_target:
+  "AI/ML Internship → AI/ML Engineer"
 ```
 
-I am interested in **applied AI engineering**, especially where multiple technologies work together.
+I am particularly interested in **Applied AI Engineering**, where multiple technologies work together to create complete intelligent systems rather than isolated models.
+
+<div align="center">
 
 ```text
-
-        DATA / VOICE / VISION
-                 │
-                 ▼
-            PERCEPTION
-                 │
-                 ▼
-          UNDERSTANDING
-                 │
-                 ▼
-             REASONING
-                 │
-                 ▼
-             DECISION
-                 │
-                 ▼
-             ACTION
-                 │
-                 ▼
-         REAL-WORLD IMPACT
-
+          DATA • VOICE • VISION
+                   │
+                   ▼
+              PERCEPTION
+                   │
+                   ▼
+             UNDERSTANDING
+                   │
+                   ▼
+               REASONING
+                   │
+                   ▼
+               DECISION
+                   │
+                   ▼
+                ACTION
+                   │
+                   ▼
+          REAL-WORLD IMPACT
 ```
 
-> ### My goal is not only to make AI that can answer.
-> ### I want to build AI that can **understand, decide and act**.
+### I don't just want AI that can answer.
+
+### I want to build AI that can **understand → decide → act.**
+
+</div>
 
 ---
 
-# ⚡ What I'm Focused On.
+# ⚡ Current Focus
 
 <table>
 <tr>
 
 <td width="25%" align="center">
 
-### 🐍 Python.
+### 🐍 Python
 
-Strong fundamentals  
-Clean engineering  
-Problem solving  
+Clean Code
 
-</td>
+Problem Solving
 
-<td width="25%" align="center">
+DSA
 
-### 🧠 AI / ML.
-
-Machine Learning  
-Deep Learning  
-Generative AI  
+Engineering
 
 </td>
 
 <td width="25%" align="center">
 
-### 👁️ Vision.
+### 🧠 AI / ML
 
-OpenCV  
-MediaPipe  
-Real-time systems  
+Machine Learning
+
+Deep Learning
+
+Generative AI
 
 </td>
 
 <td width="25%" align="center">
 
-### 🤖 Agents.
+### 👁️ Vision
 
-Tool use  
-Automation  
-Autonomous workflows  
+OpenCV
+
+MediaPipe
+
+Real-Time Systems
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖 Agents
+
+Tool Use
+
+Reasoning
+
+Automation
+
+Workflows
 
 </td>
 
@@ -165,52 +183,55 @@ INTELLIGENT SYSTEMS
 
 ---
 
-# 🚀 Engineering Projects.
+# 🚀 Featured Engineering Projects
 
-## 🤖 AERIS.
+## 🤖 AERIS
 
-### `Local-First Cognitive Desktop AI Assistant.`
+### `Local-First Cognitive Desktop AI Assistant`
 
-> An intelligent Windows assistant designed to understand natural-language commands, reason about them, use tools and safely interact with the computer.
+> A Windows-based intelligent assistant designed to understand natural-language commands, reason about them, use tools and safely interact with the computer.
 
-### Architecture.
+<div align="center">
+
+[![AERIS](https://img.shields.io/badge/Explore-AERIS-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarvagyabirla/Aeris-AI-Assistant)
+
+</div>
+
+### ⚙️ Core Architecture
 
 ```text
-
-                USER
-                  │
-          ┌───────┴───────┐
-          │               │
-        VOICE            TEXT
-          │               │
-          └───────┬───────┘
-                  │
-                  ▼
-            UNDERSTANDING
-                  │
-                  ▼
-             AI REASONING
-                  │
-                  ▼
-             ACTION PLAN
-                  │
-                  ▼
-          PERMISSION LAYER
-                  │
-                  ▼
-            TOOL EXECUTION
-                  │
-                  ▼
-               WINDOWS
-
+                    USER
+                     │
+              ┌──────┴──────┐
+              │             │
+            VOICE          TEXT
+              │             │
+              └──────┬──────┘
+                     │
+                     ▼
+               UNDERSTANDING
+                     │
+                     ▼
+                AI REASONING
+                     │
+                     ▼
+                 ACTION PLAN
+                     │
+                     ▼
+              PERMISSION LAYER
+                     │
+                     ▼
+                TOOL EXECUTION
+                     │
+                     ▼
+                   WINDOWS
 ```
 
-### What I'm Building Into Aeris.
+### 🧩 Building Into AERIS
 
 `Voice Interaction`
 `Wake Word`
 `Gemini Reasoning`
-`Screen Understanding`
 `Desktop Automation`
 `Browser Actions`
 `Secure File Operations`
@@ -219,54 +240,57 @@ INTELLIGENT SYSTEMS
 `Offline Commands`
 `Permission-Based Execution`
 
-### Stack.
+### 🛠 Stack
 
-`Python` • `Gemini` • `Windows APIs` • `Automation` • `Voice AI`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-7C3AED?style=flat-square)
 
-<div align="center">
-
-### [Explore AERIS →](https://github.com/Sarvagyabirla/Aeris-AI-Assistant)
-
-</div>
+<br/>
 
 ---
 
-## ✋ SmartGestureOS.
+## ✋ SmartGestureOS
 
-### `Real-Time Computer Vision Desktop Controller.`
+### `Real-Time Computer Vision Desktop Controller`
 
-> A touchless human-computer interaction system that converts hand gestures captured through a webcam into Windows actions.
+> A touchless Human-Computer Interaction system that converts hand gestures captured through a webcam into desktop actions.
 
-### Vision Pipeline.
+<div align="center">
+
+[![SmartGestureOS](https://img.shields.io/badge/Explore-SmartGestureOS-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarvagyabirla/SmartGestureOS)
+
+</div>
+
+### 👁️ Vision Pipeline
 
 ```text
-
-                 WEBCAM
-                    │
-                    ▼
-               VIDEO FRAME
-                    │
-                    ▼
-              HAND DETECTION
-                    │
-                    ▼
-              21 LANDMARKS
-                    │
-                    ▼
-             GESTURE ENGINE
-                    │
-                    ▼
-             CLASSIFICATION
-                    │
-                    ▼
-              ACTION MAPPING
-                    │
-                    ▼
-              WINDOWS CONTROL
-
+                   WEBCAM
+                      │
+                      ▼
+                 VIDEO FRAME
+                      │
+                      ▼
+                HAND DETECTION
+                      │
+                      ▼
+                21 LANDMARKS
+                      │
+                      ▼
+                GESTURE ENGINE
+                      │
+                      ▼
+                CLASSIFICATION
+                      │
+                      ▼
+                 ACTION MAPPING
+                      │
+                      ▼
+                WINDOWS CONTROL
 ```
 
-### Current Capabilities.
+### 🎮 Capabilities
 
 `Cursor Movement`
 `Click`
@@ -281,35 +305,36 @@ INTELLIGENT SYSTEMS
 `Gesture Smoothing`
 `Async Vision Processing`
 
-### Stack.
+### 🛠 Stack
 
-`Python` • `OpenCV` • `MediaPipe` • `PyAutoGUI` • `CustomTkinter`
-
-<div align="center">
-
-### [Explore SmartGestureOS →](https://github.com/Sarvagyabirla/SmartGestureOS)
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-Automation-F59E0B?style=flat-square)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI-7C3AED?style=flat-square)
 
 ---
 
-# 🧩 Engineering Stack.
+# 🧰 Engineering Stack
 
 <div align="center">
 
-### Languages.
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
 
-### AI / Machine Learning.
+<br/><br/>
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-312E81?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6D28D9?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-0891B2?style=for-the-badge)
+### AI / ML
 
-### Libraries.
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-312E81?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0891B2?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6D28D9?style=for-the-badge)
+
+<br/>
+
+### Libraries & Frameworks
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
@@ -317,79 +342,87 @@ INTELLIGENT SYSTEMS
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Engineering Tools.
+<br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br/><br/>
+
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
 </div>
 
 ---
 
-# 🧠 Engineering Direction.
+# 🧠 Engineering Direction
 
 <div align="center">
 
 ```text
-
-                        INTELLIGENT SYSTEM
-                                │
-             ┌──────────────────┼──────────────────┐
-             │                  │                  │
-             ▼                  ▼                  ▼
-
-        PERCEPTION           REASONING           ACTION
-             │                  │                  │
-             │                  │                  │
-       COMPUTER VISION       AI / LLMs        AUTOMATION
-             │                  │                  │
-             └──────────────────┼──────────────────┘
-                                │
-                                ▼
-                          AI AGENT
-                                │
-                                ▼
-                         TOOL EXECUTION
-                                │
-                                ▼
-                     REAL-WORLD INTERACTION
-
+                    INTELLIGENT SYSTEM
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+      PERCEPTION        REASONING         ACTION
+          │                │                │
+    COMPUTER VISION      AI / LLMs      AUTOMATION
+          │                │                │
+          └────────────────┼────────────────┘
+                           │
+                           ▼
+                       AI AGENT
+                           │
+                           ▼
+                    TOOL EXECUTION
+                           │
+                           ▼
+                 REAL-WORLD INTERACTION
 ```
 
-### Systems I want to explore.
+### Systems I want to explore
 
 `Multimodal AI`
+•
 `AI Desktop Agents`
+•
 `Developer Agents`
+•
 `Computer Vision Interfaces`
+
 `Voice + Vision Systems`
+•
 `Tool-Using Agents`
+•
 `Intelligent Automation`
+•
 `Human-AI Interaction`
 
 </div>
 
 ---
 
-# 🏆 Selected Credentials.
+# 🏆 Certifications & Learning
 
 <details>
 
-<summary><b>View Certifications & Training</b></summary>
+<summary><b>📜 View Selected Credentials</b></summary>
 
 <br/>
 
-### ☁️ Oracle.
+### ☁️ Oracle
 
 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
 
 ---
 
-### 🐍 Python for Machine Learning.
+### 🐍 Python for Machine Learning
 
-**Python for Machine Learning Training**  
+**Python for Machine Learning Training**
+
 SINE, IIT Bombay
 
 ```text
@@ -398,34 +431,39 @@ Score → 96%
 
 ---
 
-### ☁️ Google Cloud.
+### ☁️ Google Cloud
 
 **Google Cloud Platform for Machine Learning Essential Training**
 
 ---
 
-### 🤖 Microsoft & LinkedIn.
+### 🤖 Microsoft & LinkedIn
 
 **Career Essentials in Generative AI**
 
 ---
 
-### Additional Learning
+### 📚 Additional Learning
 
 `Artificial Intelligence`
+
 `Generative AI`
+
 `Responsible AI`
+
 `AI Ethics`
+
 `Microsoft Copilot`
 
 </details>
 
 ---
 
-# ⚙️ Engineering Process.
+# ⚙️ How I Build
+
+<div align="center">
 
 ```text
-
 PROBLEM
    │
    ▼
@@ -457,22 +495,22 @@ SHIP
    │
    ▼
 ITERATE
-
 ```
 
 > **I prefer projects difficult enough to expose what I still need to learn.**
 
+</div>
+
 ---
 
-# 🎯 Current Mission
+# 🎯 2026 Mission
 
 ```text
-
 2026
  │
  ├── Strengthen Python
  │
- ├── Build DSA foundations
+ ├── Build strong DSA foundations
  │
  ├── Learn Machine Learning deeply
  │
@@ -486,16 +524,15 @@ ITERATE
  │
  ├── Contribute to Open Source
  │
- └── Secure AI / ML Internship
-           │
-           ▼
-      AI / ML ENGINEER 🚀
-
+ └── Secure an AI / ML Internship
+               │
+               ▼
+         AI / ML ENGINEER 🚀
 ```
 
 ---
 
-# 📊 GitHub Intelligence
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -524,29 +561,18 @@ ITERATE
 
 ---
 
-# 🐍 Contribution Stream
+# 🧬 Current Engineering Mindset
 
 <div align="center">
 
-<picture>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1800&pause=500&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&lines=BUILD+%E2%86%92+TEST+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+IMPROVE+%E2%86%92+SHIP;Learn.+Build.+Break.+Understand.+Rebuild.;One+intelligent+system+at+a+time."
+  alt="Engineering mindset animation"
+/>
 
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sarvagyabirla/Sarvagyabirla/output/github-snake-dark.svg"
-  />
+<br/>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sarvagyabirla/Sarvagyabirla/output/github-snake.svg"
-  />
-
-  <img
-    width="100%"
-    alt="Sarvagya Birla contribution animation"
-    src="https://raw.githubusercontent.com/Sarvagyabirla/Sarvagyabirla/output/github-snake-dark.svg"
-  />
-
-</picture>
+### `while (learning) { build(); test(); improve(); }`
 
 </div>
 
@@ -556,37 +582,43 @@ ITERATE
 
 <div align="center">
 
-### Interested in
+### I'm interested in
 
-`AI / ML`
+`Artificial Intelligence`
+•
+`Machine Learning`
 •
 `Python`
 •
 `Computer Vision`
-•
+
 `AI Agents`
 •
 `Automation`
+•
+`Human-Computer Interaction`
 
 <br/>
 
-### 🚀 Currently Open to AI/ML Internship Opportunities
+### 🚀 Currently open to AI / ML Internship Opportunities
+
+I am especially interested in opportunities where I can **learn fast, build real systems and contribute to meaningful engineering work.**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvagyabirla)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvagyabirla)
+[![Follow on GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarvagyabirla)
 
-<br/>
-<br/>
+<br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=1600&pause=450&color=A78BFA&center=true&vCenter=true&repeat=true&width=950&lines=BUILD+%E2%86%92+TEST+%E2%86%92+BREAK+%E2%86%92+DEBUG+%E2%86%92+IMPROVE+%E2%86%92+SHIP;One+intelligent+system+at+a+time.;The+goal%3A+turn+curiosity+into+engineering."
-  alt="Animated engineering mindset"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2000&pause=650&color=22D3EE&center=true&vCenter=true&repeat=true&width=950&lines=Curiosity+%E2%86%92+Engineering+%E2%86%92+Impact.;Building+the+skills+to+build+the+future.;Still+learning.+Still+shipping."
+  alt="Closing animation"
 />
 
 <br/>
 
-### `while (learning) { build(); test(); improve(); }`
+### `Code. Learn. Build. Repeat. 🚀`
 
 </div>
 
@@ -594,5 +626,5 @@ ITERATE
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,25:6D28D9,55:312E81,80:0F172A,100:020617&height=125&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,25:7C3AED,55:312E81,80:0F172A,100:020617&height=130&section=footer"
 />
