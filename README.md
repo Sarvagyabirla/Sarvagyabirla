@@ -95,13 +95,13 @@ I am especially interested in **applied AI engineering**, where perception, reas
 
 ---
 
-# ⚡ What I'm Building Toward
+# ⚡ What I'm Building Toward.
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### 🐍 Python
+### 🐍 Python.
 
 Problem Solving  
 DSA  
@@ -112,7 +112,7 @@ Engineering
 
 <td width="25%" align="center">
 
-### 🧠 AI / ML
+### 🧠 AI / ML.
 
 Machine Learning  
 Deep Learning  
@@ -122,7 +122,7 @@ Generative AI
 
 <td width="25%" align="center">
 
-### 👁️ Vision
+### 👁️ Vision.
 
 OpenCV  
 MediaPipe  
@@ -132,7 +132,7 @@ Real-Time CV
 
 <td width="25%" align="center">
 
-### 🤖 Agents
+### 🤖 Agents.
 
 Tool Use  
 Reasoning  
