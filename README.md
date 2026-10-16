@@ -30,7 +30,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About Me.
 
 ```python
 class SarvagyaBirla:
