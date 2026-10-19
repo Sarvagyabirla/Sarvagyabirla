@@ -117,7 +117,7 @@ SmartGestureOS is a computer-vision desktop application that translates **real-t
 - 🌙 Background control mode
 - 📦 Windows installer
 
-### 📊 Engineering Status
+### 📊 Engineering Status.
 
 `v0.9.1`
 
