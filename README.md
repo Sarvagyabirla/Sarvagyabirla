@@ -82,7 +82,7 @@ Rather than stopping at tutorials, I prefer taking ideas through:
 
 ---
 
-# 🚀 Featured Engineering Projects
+# 🚀 Featured Engineering Projects.
 
 <table>
 <tr>
