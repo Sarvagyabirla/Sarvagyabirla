@@ -152,7 +152,7 @@ Clean-machine release QA remains part of final validation.
 
 Aeris is an AI desktop assistant designed to **understand requests, reason about them, interact with tools, and safely perform actions on Windows**.
 
-### ✨ Current Capabilities
+### ✨ Current Capabilities.
 
 - 🎙️ Voice interaction
 - 🗣️ Wake-word control
