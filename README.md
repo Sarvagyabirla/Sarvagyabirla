@@ -127,7 +127,7 @@ Installer successfully compiled.
 
 Clean-machine release QA remains part of final validation.
 
-### 🧰 Core Stack
+### 🧰 Core Stack.
 
 `Python 3.11` `OpenCV` `MediaPipe` `NumPy`  
 `CustomTkinter` `Win32` `PyInstaller` `Inno Setup`
@@ -171,7 +171,7 @@ Aeris is an AI desktop assistant designed to **understand requests, reason about
 - 📊 System telemetry
 - 🛡️ Safe tool execution architecture
 
-### 🧠 Design Philosophy
+### 🧠 Design Philosophy.
 
 Aeris separates:
 
