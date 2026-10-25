@@ -191,7 +191,7 @@ Aeris separates:
 
 This reduces the risk of unrestricted AI-generated system actions.
 
-### 🧰 Core Direction
+### 🧰 Core Direction.
 
 `Python` `Gemini AI` `Voice AI` `Automation`  
 `Windows` `Tool Integration` `Local-First AI`
@@ -210,7 +210,7 @@ This reduces the risk of unrestricted AI-generated system actions.
 
 ---
 
-# 🧠 Core Areas of Interest
+# 🧠 Core Areas of Interest.
 
 <div align="center">
 
